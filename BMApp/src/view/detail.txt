@@ -1,0 +1,16 @@
+
+    Viết menu cho phép thực hiện chức năng thứ 5.(khó nhất)
+    B0: đọc ra danh sách các sách, bạn đọc, thông tin quản lý mượn
+
+    B1: chọn một bạn đọc từ danh sách để cho phép mượn. nếu đã mượn đủ số lượng cho phép
+    thì không cho mượn nữa
+
+    B2: chọn một đầu sách cần mượn, nếu đầu sách đó đã mượn tối đa số cuốn cho phép
+    thì ko đc mượn tiếp. yêu cầu mượn đầu sách khác
+
+    B3: nếu được phép mượn tiếp thì thực hiện nhập số lượng mượn, tình trạng sách
+    lúc mượn
+
+    B4: cập nhật lại file BRM.DAT
+
+    B5: in danh sách trên ra màn hình
